@@ -1,5 +1,7 @@
 # 📦 AI-Based Demand Forecasting for Supply Chain Optimization
-![image](https://github.com/user-attachments/assets/9411358f-6e3a-4063-b283-b9a7b0ac48b0)
+![forecast](https://github.com/user-attachments/assets/3380acc5-c041-4631-a87f-37280e5b23d7)
+## Sample output
+
 
 ## 🧠 Project Overview
 This project leverages **machine learning** techniques to predict future demand based on historical sales data. The goal is to assist businesses in optimizing their supply chain by providing accurate demand forecasts through interactive visualizations.
